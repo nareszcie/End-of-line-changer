@@ -18,4 +18,5 @@ class Args {
 
     @Parameter(names = {"--symbol"}, description = "Symbol to be encoded. One of [CR, LF, CRLF].", validateWith = EOLValidator.class, required = true)
     private String symbol;
+
 }
