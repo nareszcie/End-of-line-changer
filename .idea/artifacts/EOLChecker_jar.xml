@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EOLChecker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EOLChecker_jar</output-path>
+    <root id="archive" name="EOLChecker.jar">
+      <element id="module-output" name="EOLChecker" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.10/lombok-1.18.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/beust/jcommander/1.81/jcommander-1.81.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
